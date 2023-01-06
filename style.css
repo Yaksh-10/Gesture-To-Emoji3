@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body
+{
+  color: white;
+  background: #c0d3ff;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+#prediction
+{
+  border-radius: 15px;
+  background-color: rgb(99, 135, 255);
+}
+.heading
+{
+  border-radius: 30px;
+  background-color: rgb(244, 111, 3);
+}
+.camera
+{
+  color: black;
+}
